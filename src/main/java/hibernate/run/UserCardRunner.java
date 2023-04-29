@@ -1,4 +1,4 @@
-package hibernate;
+package hibernate.run;
 
 import hibernate.model.BankCard;
 import hibernate.model.User;
